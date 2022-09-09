@@ -14,3 +14,5 @@ select.select_by_value('recent')
 ### :book: Rreference
 - [Selenium tutorial](https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ)
 - [Select module](https://www.selenium.dev/selenium/docs/api/py/webdriver_support/selenium.webdriver.support.select.html#module-selenium.webdriver.support.select)
+
+https://github.com/MoamenAlaa0/Amazon_Web_Scraping/blob/48997b41fbb1ae6dff0ce94bfa97076bb59f37f6/Web%20Scraper.py#L23
